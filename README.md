@@ -6,7 +6,7 @@ git clone https://github.com/27arpitmisha/StrategyWerks.git
 
 Navigate to the project folder:
 
-cd ecommerce-dashboard
+cd StrategyWerks
 
 Install dependencies:
 
