@@ -14,6 +14,10 @@
   .product-image {
     width: 150px;
     height: 150px;
+    transition: transform 0.3s ease;
     object-fit: cover;
   }
-  
+  .product-image:hover {
+    transform: scale(1.2);  /* Zoom in */
+    cursor: pointer;  /* Optional: to indicate that it's interactive */
+  }
