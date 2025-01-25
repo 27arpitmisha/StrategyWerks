@@ -1,0 +1,21 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+
+.loader {
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.error {
+  color: red;
+}
+
